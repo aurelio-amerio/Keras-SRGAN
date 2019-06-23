@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$">
+    <content url="file://$MODULE_DIR$/SRGAN">
+      <sourceFolder url="file://$MODULE_DIR$/SRGAN/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/SRGAN/dataset" />
       <excludeFolder url="file://$MODULE_DIR$/SRGAN/dataset/img_align_celeba" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.7 (Keras-SRGAN)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="PyDocumentationSettings">
